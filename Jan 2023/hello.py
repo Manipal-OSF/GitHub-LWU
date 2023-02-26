@@ -1,1 +1,1 @@
-print("Let's complete the formalities.")
+print('Hello OSF')
